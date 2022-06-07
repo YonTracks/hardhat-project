@@ -3,6 +3,7 @@
   "devDependencies": {
     "@nomiclabs/hardhat-etherscan": "^3.0.4",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "hardhat": "^2.9.7",
     "dotenv": "^16.0.1"
   }
 }
